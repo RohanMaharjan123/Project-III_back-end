@@ -54,6 +54,8 @@ INSTALLED_APPS = [
 
     # Your Apps
     'accounts.apps.AccountsConfig',
+    'nepse_data',
+    'portfolio',
 ]
 
 MIDDLEWARE = [
